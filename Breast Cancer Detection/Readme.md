@@ -8,6 +8,6 @@ The project divided into two notebooks.(All done in kaggle notebook environment)
 
 One(Visualization.ipynb) involves data expl;oration
 
-Second(Model Building) involves making of prediction.
+Second(Model Building) involves making of prediction.Involves use of pretrained models.
 
 Due to lack of memory in kaggle gpu the accuracy score cannot be determined. 
