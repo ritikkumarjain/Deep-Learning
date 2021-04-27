@@ -5,9 +5,6 @@ Breast cancer is the most common form of cancer in women, and invasive ductal ca
 Link to dataset: https://www.kaggle.com/paultimothymooney/breast-histopathology-images (1.49gb)
 
 The project divided into two notebooks.(All done in kaggle notebook environment)
+*One(Visualization.ipynb) involves data exploration
+*Second(Model Building) involves making of prediction.Involves use of pretrained models.
 
-One(Visualization.ipynb) involves data expl;oration
-
-Second(Model Building) involves making of prediction.Involves use of pretrained models.
-
-Due to lack of memory in kaggle gpu the accuracy score cannot be determined. 
