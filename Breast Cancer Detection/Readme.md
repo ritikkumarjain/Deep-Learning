@@ -8,7 +8,18 @@ Link to dataset: https://www.kaggle.com/paultimothymooney/breast-histopathology-
 
 The project divided into two notebooks.(All done in kaggle notebook environment)
 
-1. One(Visualization.ipynb) involves data exploration
+1. One(Visualization.ipynb) involves data exploration.
+2. Second(Model Building.ipynb) involves making of predictions.
 
-2. Second(Model Building.ipynb) involves making of prediction.Involves use of pretrained models
+## Models/Architectures: 
+
+ANN, Inceptionv3, ResNet151V2, MobileNetV2.
+Even With Overfitting the performances are  MobileNetV2>>ANN>>ResNet151V2>>InceptionV3.
+
+So making prediction on MobileNetV2 and accuracy came out to be 86%
+
+
+
+
+
 
