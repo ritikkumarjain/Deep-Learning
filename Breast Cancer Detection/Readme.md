@@ -8,7 +8,7 @@ Link to dataset: https://www.kaggle.com/paultimothymooney/breast-histopathology-
 
 The project divided into two notebooks.(All done in kaggle notebook environment)
 
-*One(Visualization.ipynb) involves data exploration
+1. One(Visualization.ipynb) involves data exploration
 
-*Second(Model Building.ipynb) involves making of prediction.Involves use of pretrained models
+2. Second(Model Building.ipynb) involves making of prediction.Involves use of pretrained models
 
