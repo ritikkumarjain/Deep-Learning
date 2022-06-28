@@ -31,7 +31,9 @@ The Facial Emotion Recognition 2013 dataset was used. It is a benchmark dataset 
 
 ### 3) Baseline Model ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
 Baseline Model achieves a max accuracy of 65.55% on testing set. Model has very high Overfitting.
+
 ![image](https://user-images.githubusercontent.com/69076815/176212863-f2bdd93d-b201-4f35-b4f3-80a9d84c71c2.png)
+
 Baseline Accuracy: 65.55%
 
 ### 4) Hyperparamter Optimization ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
@@ -40,13 +42,16 @@ Keras Tuner was used for finding sutibale parameter. All of these was done in Ka
 
 ### 4)Final Models ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
 Model 1: Accuracy 70.58%. High overfitting so it is not considered.
+
 ![image](https://user-images.githubusercontent.com/69076815/176213097-792994b9-cfd2-45d5-ac69-3fdd993c1ae4.png)
 
 Model 2: Accuracy 68.21%. Variance is very low.
+
 ![image](https://user-images.githubusercontent.com/69076815/176213285-8b0a1624-22fa-4705-99bd-3957c69a7830.png)
 
 Model 3:Accuracy: 69.55%. There is a small amount of variance but we think it can be considered for evaluation.
 Final Model finded out using Keras tuner achieved a accuracy of 69.55%. 
+
 ![image](https://user-images.githubusercontent.com/69076815/176213422-afd1e709-533a-4f9c-a9e9-1187b1897664.png)
 
 
@@ -54,15 +59,19 @@ Final Model finded out using Keras tuner achieved a accuracy of 69.55%.
 ### 5) Overall Ranking In Leaderboards ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
 
 - On basis of Global Ranking
+- 
 ![image](https://user-images.githubusercontent.com/69076815/176214093-e328aefd-39a0-40a3-b047-068311743caf.png)
+
 ![image](https://user-images.githubusercontent.com/69076815/176214136-be6dd3a3-f2ce-4197-a6f4-257a4646face.png)
 
 
 - On basis of type of Network Model used
+- 
 ![image](https://user-images.githubusercontent.com/69076815/176214253-ba4f6343-17fc-49be-8937-082f3b739527.png)
 
 
 - On basis of No extra data  used with Fer13 dataset for training 
+- 
 ![image](https://user-images.githubusercontent.com/69076815/176214383-9c05db36-b27d-4eab-b7fe-2d972896e392.png)
 
 
