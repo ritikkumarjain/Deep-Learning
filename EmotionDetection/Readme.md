@@ -59,19 +59,22 @@ Final Model finded out using Keras tuner achieved a accuracy of 69.55%.
 ### 5) Overall Ranking In Leaderboards ![image](https://user-images.githubusercontent.com/69076815/148382182-c43da7f7-6f46-4562-9d6e-db3aa9deb700.png)
 
 - On basis of Global Ranking
-- 
+- Position 14th
+
 ![image](https://user-images.githubusercontent.com/69076815/176214093-e328aefd-39a0-40a3-b047-068311743caf.png)
 
 ![image](https://user-images.githubusercontent.com/69076815/176214136-be6dd3a3-f2ce-4197-a6f4-257a4646face.png)
 
 
 - On basis of type of Network Model used
-- 
+- Position 2nd
+-
 ![image](https://user-images.githubusercontent.com/69076815/176214253-ba4f6343-17fc-49be-8937-082f3b739527.png)
 
 
 - On basis of No extra data  used with Fer13 dataset for training 
-- 
+- Position 10th
+
 ![image](https://user-images.githubusercontent.com/69076815/176214383-9c05db36-b27d-4eab-b7fe-2d972896e392.png)
 
 
